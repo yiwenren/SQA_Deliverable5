@@ -20,7 +20,7 @@ It will cause data loss and unauthorized access. Because the attackers could get
 •	Input “ZAP' OR '1'='1'--” in the username box<br>
 •	Input whatever you want for password<br>
 •	Press the Login button<br>
-•	Then enter the admin page.<br>
+•	Then you will enter the admin page.<br>
 #### 3.	A screenshot (if applicable) of the vulnerability.
 ![](https://github.com/yiwenren/SQA_Deliverable5/blob/master/1_1.png)
 ![](https://github.com/yiwenren/SQA_Deliverable5/blob/master/1_2.png)<br><br><br>
