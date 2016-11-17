@@ -57,7 +57,7 @@ Unauthorized access would be lost due to exploiting this vulnerability. The repu
 
 ## Vulnerability Cross Site Scripting (Reflected)<br>
 #### 1. What part of the InfoSec Triad does this vulnerability attack (confidentiality, integrity, or availability)?
-The confidentiality, integrity and availability will be attacked by this vulnerability attack.<br>	
+The confidentiality, integrity and availability will be attacked by this vulnerability attack.	
 Cross-site Scripting (XSS) is an attack technique that involves echoing attacker-supplied code into a user's browser instance. When an attacker gets a user's browser to execute his/her code, the code will run within the security context (or zone) of the hosting web site. With this level of privilege, the code has the ability to read, modify and transmit any sensitive data accessible by the browser. 
 <br>
 #### 2. What kind of security attack can exploit this vulnerability (interruption, interception, modification, or fabrication)?<br>
