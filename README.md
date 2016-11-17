@@ -2,7 +2,7 @@
 
 ## Vulnerability SQL Injection<br>
 #### 1. What part of the InfoSec Triad does this vulnerability attack (confidentiality, integrity, or availability)?
-This vulnerability attacks integrity, because the SQL injection may be possible.<br>
+	This vulnerability attacks integrity, because the SQL injection may be possible.<br>
 #### 2. What kind of security attack can exploit this vulnerability (interruption, interception, modification, or fabrication)?<br>
 	Fabrication and modification can exploit this vulnerability. The attackers could gain access to the admin system to delete, insert and make up data.
 #### 3. Are attacks that exploit this vulnerability active or passive?<br>
@@ -28,7 +28,7 @@ This vulnerability attacks integrity, because the SQL injection may be possible.
 
 ## Vulnerability Remote OS command injection<br>
 #### 1. What part of the InfoSec Triad does this vulnerability attack (confidentiality, integrity, or availability)?
-The vulnerability attacks the confidentiality part of the InfoSec Triad, for it shows some information to unauthorized users.<br>
+	The vulnerability attacks the confidentiality part of the InfoSec Triad, for it shows some information to unauthorized users.<br>
 #### 2. What kind of security attack can exploit this vulnerability (interruption, interception, modification, or fabrication)?<br>
 	Interception. Interception can attack on confidentiality.
 #### 3. Are attacks that exploit this vulnerability active or passive?<br>
@@ -57,8 +57,8 @@ The vulnerability attacks the confidentiality part of the InfoSec Triad, for it 
 
 ## Vulnerability Cross Site Scripting (Reflected)<br>
 #### 1. What part of the InfoSec Triad does this vulnerability attack (confidentiality, integrity, or availability)?
-The confidentiality, integrity and availability will be attacked by this vulnerability attack.<br>	
-Cross-site Scripting (XSS) is an attack technique that involves echoing attacker-supplied code into a user's browser instance. When an attacker gets a user's browser to execute his/her code, the code will run within the security context (or zone) of the hosting web site. With this level of privilege, the code has the ability to read, modify and transmit any sensitive data accessible by the browser. 
+	The confidentiality, integrity and availability will be attacked by this vulnerability attack.<br>	
+	Cross-site Scripting (XSS) is an attack technique that involves echoing attacker-supplied code into a user's browser instance. When an attacker gets a user's browser to execute his/her code, the code will run within the security context (or zone) of the hosting web site. With this level of privilege, the code has the ability to read, modify and transmit any sensitive data accessible by the browser. 
 <br>
 #### 2. What kind of security attack can exploit this vulnerability (interruption, interception, modification, or fabrication)?<br>
 	Interruption, interception and modification can exploit this vulnerability.
