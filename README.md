@@ -1,8 +1,10 @@
 # IS 2545 SQA_Deliverable5 Secutiry Testing<br>
 
-## Vulnerability 1.	SQL Injection<br>
-1. ddd<br>
-* yy
+## Vulnerability SQL Injection<br>
+>1. What part of the InfoSec Triad does this vulnerability attack (confidentiality, integrity, or availability)?
+<br>
+>>dddd
+2. yy
 * yyy
 
 
